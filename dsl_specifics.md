@@ -1,4 +1,4 @@
-~~~mermaid
+ ~~~mermaid
 flowchart TD
     subgraph Core["Core System"]
         direction TB
